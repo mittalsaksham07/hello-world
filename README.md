@@ -1,3 +1,3 @@
 # hello-world
 Saksham Mittal
-M.Tech CSE II SEM. 
+M.Tech CSE II SEM
